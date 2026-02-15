@@ -157,7 +157,7 @@ function App() {
           >
             <div className="text-center md:text-left space-y-2">
               <h1 className="text-5xl font-bold leading-tight">
-                Hi, I am Raneem AbuMoustaf
+                Hi, I am Raneem AbuMoustafa
               </h1>
               <p className="text-lg font-medium text-indigo-300">
                 Software Engineer |{" "}
